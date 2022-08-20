@@ -1,11 +1,11 @@
 {
-	"idle_anim": "gf",
+	"idle_anim": "cj",
 	"image": "Week_CharUI",
 	"position": [
-		80,
-		100
+		180,
+		90
 	],
 	"flipX": false,
-	"scale": 0.55,
+	"scale": 0.45,
 	"confirm_anim": "M Dad Idle"
 }
