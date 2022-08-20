@@ -1,0 +1,308 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "One day, you decide to take your Girlfriend to a local music festival,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "and a local band is currently performing.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj:I'll never forget to show my true colors,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj:I'll never forget to question destiny!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "gf:These guys are really good!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "bf:Beep boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj:Honestly, just break free, maybe there, really are, WONDERS!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "gf:Thank you for bringing me to this concert!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "bf: Boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: Thank you, Everyone. It's really good to have you all he-.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: Hmm!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: Is that..!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "cj: You!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "bf:Beep!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "cj: Yes, you! Step right up here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "bf: Boop!?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "gf: Should we go up?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "Bep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "gf: Come on, let's go!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: You're BF, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "bf: Beep..!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: Oh man, I've heard a lot about you.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: You're the one that beat DD and MM, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: You even beat that up and coming robot dude..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: Yes, he is!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: Sick!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: The music scene has been going crazy about you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: And you must be GF right? Daughter of DD and MM!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: Yep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: Man, what a duo. Names CJ by the way."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: But I bet you already know that since you're here.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "bf: Beep boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: Now enough rambling, sorry to interrupt your date dude, but what do you say.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: Up to a friendly match?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: I don't know.. Don't you have like, a schedule planned for your show?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "bf: Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "cj: Sick, man. Just warning you ahead, I aint going easy on you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "gf: (He didn't answer my question!)"
+		}
+	]
+}
