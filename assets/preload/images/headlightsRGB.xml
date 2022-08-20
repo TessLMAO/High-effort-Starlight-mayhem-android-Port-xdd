@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="headlightsRGB.png">
+<SubTexture name="lightsrepeated0000" x="0" y="0" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0001" x="0" y="518" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0002" x="0" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0003" x="0" y="1554" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0004" x="2418" y="0" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0005" x="2418" y="518" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0006" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0007" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0008" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0009" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0010" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0011" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0012" x="2418" y="1036" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0013" x="2418" y="1554" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0014" x="0" y="2072" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0015" x="2418" y="2072" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0016" x="0" y="2590" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0017" x="2418" y="2590" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0018" x="0" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0019" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0020" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0021" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0022" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0023" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0024" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+<SubTexture name="lightsrepeated0025" x="2418" y="3108" width="2418" height="518" frameX="0" frameY="0" frameWidth="2418" frameHeight="665" />
+</TextureAtlas>
