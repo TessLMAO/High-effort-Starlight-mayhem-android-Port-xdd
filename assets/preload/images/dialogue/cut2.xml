@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Abel.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cut10000" x="5" y="5" width="1280" height="720" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="cut20000" x="5" y="735" width="1280" height="720" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="cut30000" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="cut40000" x="1295" y="735" width="1280" height="720" frameX="-1" frameY="0" frameWidth="320" frameHeight="660"/>
+</TextureAtlas>
