@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Inverted Ascension",
+			"cj",
+			[
+				0,
+				75,
+				255
+			]
+		],
+		[
+			"Echoes",
+			"ruby",
+			[
+				166,
+				0,
+				175
+			]
+		],
+		[
+			"Artificial Lust",
+			"cjruby",
+			[
+				146,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"cj",
+		"bf",
+		"gf"
+	],
+	"storyName": "Starlight mayhem",
+	"weekName": "cj",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
