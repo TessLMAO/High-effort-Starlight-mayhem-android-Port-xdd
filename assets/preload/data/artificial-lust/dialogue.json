@@ -1,0 +1,253 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "cj: Now that was a sick performance Ruby!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "cj: You keep on improving every time."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "gf: I wasn't expecting that, You're incredible!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "ruby: Huh?  You... mean that?!  T-thanks..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "ruby: Yet... you still beat me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: And that’s where I come in! Haha!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: So, what do you say Ruby? How about we step our game up together?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "ruby: Pardon...?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: Me and you both, taking them on 2V1!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "bf: Beep!?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "gf: That is so totally against the rules, But you can take them on, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "ruby: S-since when were there rules?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "bf: Boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "cj: Alright now, let’s rock on for one final performance!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "3",
+			"text": ".........."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: Wait!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "ruby: ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "bf: ....... beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: You know, on another thought…"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "gf: A 2 versus 1 isn't really fair, is it..?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "ruby: huh?"
+		},
+	
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: Let me join you in a duet!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "gf: I'm a little rusty, but remember, my genes are no joke!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "bf: Beep boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "cj: Hmm... not bad. Show us what you’ve got, Girlfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "gf: I'll do my best!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "bf: Beep boop beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "cj: So Ruby, do you want me to carry you just like they do?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "ruby: N-no thanks, I’m fine standing up here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "cj: Sweet. Alright my dudes, let’s end this mayhem right here, right now!"
+		}
+	]
+}
