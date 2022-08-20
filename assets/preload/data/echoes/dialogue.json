@@ -1,0 +1,182 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "cj: Not bad bud! You managed to out-perform me somehow"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "cj: You got some tight bars, ya know?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "bf: beep ba boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "gf: Not bad, that was funky indeed!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "gf: Though it's almost night already, i didn't notice."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "cj: But, to be honest.. i was never the best vocalist... of the group."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "bf: Beep?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "ruby: Ah...! Sorry I'm late! I ran into traffic and, Huff-huff..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "cj: Don't worry! You came right on time!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "gf: huh?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "cj: Meet Ruby, She's kinda shy.. but don’t let that make you underestimate her!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "cj: She's killer at vocals!"
+		},
+
+
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "cj: So you wanna go at them, Ruby?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "ruby: W-What!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "ruby: Are those..?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "bf: Boop beep."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "gf: She doesn't seem so sure of herself.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "ruby: D-Don't worry... i- I can do it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "ruby: I n-need to prove myself to them.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "cj: Alright Ruby, Break a leg out there!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "bf: Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "ruby: (So this is the stage fright my parents were talking about..)"
+		}
+	]
+}
