@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "duet idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "duet Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "duet Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "duet Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "duet Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-61
+			],
+			"anim": "showtime",
+			"fps": 24,
+			"name": "duet SH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duetRGB_assets",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "cjruby",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		0,
+		202
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

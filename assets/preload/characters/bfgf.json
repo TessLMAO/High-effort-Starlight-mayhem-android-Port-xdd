@@ -200,17 +200,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BFGF",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bfgf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		164,
+		1,
+		77
 	],
 	"camera_position": [
 		160,
